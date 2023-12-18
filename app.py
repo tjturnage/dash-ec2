@@ -30,4 +30,4 @@ header = dbc.Navbar(
 app.layout = dbc.Container([header, dash.page_container], fluid=False)
 
 if __name__ == '__main__':
-    app.run_server(host= ‘0.0.0.0’, port=8050)
+    app.run_server(host= '0.0.0.0', port=8050)
