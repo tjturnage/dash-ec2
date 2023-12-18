@@ -1,14 +1,15 @@
 """
 This gets the buoy data from the NDBC website
 """
+from base_directory import BASE_DIRECTORY as b
 from datetime import datetime, timedelta
 import pandas as pd
 from pathlib import Path
 
 BASE_URL = 'https://www.ndbc.noaa.gov/data/realtime2'
 
-from base_directory import BASE_DIRECTORY
-DATA_DIRECTORY = Path(BASE_DIRECTORY / 'data')
+
+DATA_DIRECTORY = b / 'data'
 if 'pyany' in Path().absolute().parts:
     DATA_DIRECTORY = 'C:/data/scripts/pyany/data'
 

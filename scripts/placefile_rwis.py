@@ -10,18 +10,15 @@ Obs network/station providers: https://developers.synopticdata.com/about/station
 Selecting stations: https://developers.synopticdata.com/mesonet/v2/station-selectors/
 
 """
-
+from base_directory import BASE_DIRECTORY as b
 import os
 import math
 from datetime import datetime, timedelta
 from pathlib import Path
 import requests
 
-from base_directory import BASE_DIRECTORY
-ASSETS_DIRECTORY = Path(BASE_DIRECTORY / 'assets')
-if 'pyany' in Path().absolute().parts:
-    DATA_DIRECTORY = 'C:/data/scripts/pyany/data'
-    DEST_HOME = '/home/tjturnage/multipage/assets'
+DATA_DIRECTORY = b / 'data'
+DEST_HOME = b / 'assets'
 
 #from api_tokens import mesowest_API_TOKEN as API_TOKEN
 API_TOKEN = "292d36a692d74badb6ca011f4413ae1b"

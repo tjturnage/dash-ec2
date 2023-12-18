@@ -3,13 +3,14 @@
     Returns:
         _type_: _description_
 """
+from base_directory import BASE_DIRECTORY as b
 from datetime import datetime
 from pathlib import Path
 import requests
 from bs4 import BeautifulSoup
-from base_directory import BASE_DIRECTORY
 
-OUTPUT_PATH = Path(BASE_DIRECTORY / 'assets/afds.txt')
+
+OUTPUT_PATH = b / 'assets' / 'afds.txt'
 
 
 UPDATE = True
