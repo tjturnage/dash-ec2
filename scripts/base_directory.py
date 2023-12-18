@@ -1,0 +1,1 @@
+BASE_DIRECTORY = "/home/ec2-user/dash-ec2"

@@ -5,8 +5,9 @@ import pandas as pd
 start = datetime.utcnow() - timedelta(hours=3)
 
 
+BASE_DIRECTORY = '/home/ec2-user/dash-ec2'
 
-DATA_DIRECTORY = '/home/tjturnage/multipage/data'
+DATA_DIRECTORY = Path(BASE_DIRECTORY / 'data')
 if 'pyany' in Path().absolute().parts:
     DATA_DIRECTORY = 'C:/data/scripts/pyany/data'
 

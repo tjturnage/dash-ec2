@@ -7,7 +7,8 @@ from pathlib import Path
 
 BASE_URL = 'https://www.ndbc.noaa.gov/data/realtime2'
 
-DATA_DIRECTORY = '/home/tjturnage/multipage/data'
+from base_directory import BASE_DIRECTORY
+DATA_DIRECTORY = Path(BASE_DIRECTORY / 'data')
 if 'pyany' in Path().absolute().parts:
     DATA_DIRECTORY = 'C:/data/scripts/pyany/data'
 
