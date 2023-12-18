@@ -1,16 +1,30 @@
 """
-screen gunicorn app:server --bind=0.0.0.0:8050 &
+https://medium.com/techfront/step-by-step-visual-guide-on-deploying-a-flask-application-on-aws-ec2-8e3e8b82c4f7
+https://medium.com/@GeoffreyGordonAshbrook/plotly-dash-in-ec2-production-server-502717843efb
 
-if __name__ == ‘__main__’:
-app.run_server(host= ‘0.0.0.0’,port=8050)
 
 sudo yum update -y
 sudo yum install git -y
-mkdir viz; cd viz
+
+
+
+git remote add upstream https://github.com/tjturnage/dash-ec2.git
+git fetch upstream
+git merge upstream/main
+
+cd dash-ec2
 
 python3 -m venv env; source env/bin/activate
 python3 -m pip install --upgrade pip
 pip install -r requirements.txt
 
-git remote add upstream https://github.com/tjturnage/dash-ec2.git
+# to set up a cron
+sudo yum install cronie -y
+sudo systemctl enable crond.service
+sudo systemctl start crond.service
+sudo systemctl status crond.service
+crontab -l
+
+# to run the flask app
+screen gunicorn app:server --bind=0.0.0.0:8050 &
 """

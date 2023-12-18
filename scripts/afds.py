@@ -55,7 +55,7 @@ class AFD:
     AFD class
     """
 
-    def __init__(self, wfo, versions=45):
+    def __init__(self, wfo, versions=20):
         self.wfo = wfo
         self.versions = min(int(versions), 50)
         self.section_dict = {}
@@ -174,4 +174,4 @@ class AFD:
 
 
 if __name__ == '__main__':
-    test = AFD("GRR", 45)
+    test = AFD("GRR", 30)
