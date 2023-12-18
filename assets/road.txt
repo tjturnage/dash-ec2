@@ -1,0 +1,7276 @@
+Title: Mesowest Road Temperature 2023-12-18-0100
+
+Refresh: 1        
+Color: 255 200 255        
+IconFile: 1, 18, 32, 2, 31, "https://mesonet.agron.iastate.edu/request/grx/windbarbs.png"        
+IconFile: 2, 15, 15, 8, 8, "https://mesonet.agron.iastate.edu/request/grx/cloudcover.png"        
+IconFile: 3, 25, 25, 12, 12, "https://mesonet.agron.iastate.edu/request/grx/rwis_cr.png"        
+IconFile: 4, 13, 24, 2, 23, "https://www.turnageweather.us/assets/windbarbs-small.png"        
+Font: 1, 11, 1, "Arial"        
+Font: 2, 14, 1, "Arial"
+
+TimeRange: 2023-12-17T23:40:00Z 2023-12-17T23:50:00Z
+
+Object: 46.48812,-87.23149
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 37 "
+ End:
+
+Object: 46.43164,-86.84492
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 38 "
+ End:
+
+Object: 46.10089,-85.61780
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 40 "
+ End:
+
+Object: 46.00841,-85.00555
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 39 "
+ End:
+
+Object: 46.34538,-86.03578
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 38 "
+ End:
+
+Object: 45.90960,-86.48062
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 39 "
+ End:
+
+Object: 46.88494,-88.86370
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 32 "
+ End:
+
+Object: 46.18625,-84.56087
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 39 "
+ End:
+
+Object: 46.27616,-87.41586
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 36 "
+ End:
+
+Object: 46.16046,-88.87984
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 34 "
+ End:
+
+Object: 45.89735,-84.74475
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 41 "
+ End:
+
+Object: 44.58695,-86.09905
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 42 "
+ End:
+
+Object: 43.95574,-86.33909
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 42 "
+ End:
+
+Object: 43.88729,-85.52686
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 40 "
+ End:
+
+Object: 44.77101,-85.40423
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 43 "
+ End:
+
+Object: 45.36155,-85.17717
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 42 "
+ End:
+
+Object: 44.87660,-84.68803
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 42 "
+ End:
+
+Object: 44.61225,-84.70769
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 42 "
+ End:
+
+Object: 44.33489,-84.80651
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 42 "
+ End:
+
+Object: 44.24511,-84.22731
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 44 "
+ End:
+
+Object: 45.76115,-84.73107
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 41 "
+ End:
+
+Object: 45.27269,-84.59000
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 43 "
+ End:
+
+Object: 46.47730,-89.95190
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 33 "
+ End:
+
+Object: 46.72490,-89.15090
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 34 "
+ End:
+
+Object: 46.47888,-88.99046
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 35 "
+ End:
+
+Object: 46.5346,-87.5278
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 35 "
+ End:
+
+Object: 45.92610,-86.98370
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 40 "
+ End:
+
+Object: 46.15847,-86.97997
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 39 "
+ End:
+
+Object: 46.34746,-87.11595
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 37 "
+ End:
+
+Object: 45.96704,-86.2027
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 39 "
+ End:
+
+Object: 44.80630,-85.89630
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 40 "
+ End:
+
+Object: 44.51230,-85.40220
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 40 "
+ End:
+
+Object: 44.22270,-85.80530
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 40 "
+ End:
+
+Object: 44.21980,-86.30880
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 38 "
+ End:
+
+Object: 45.10740,-85.35210
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 41 "
+ End:
+
+Object: 44.71660,-85.19060
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 41 "
+ End:
+
+Object: 45.06750,-83.71690
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 43 "
+ End:
+
+Object: 45.33100,-83.57540
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 42 "
+ End:
+
+Object: 44.72650,-83.80830
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 42 "
+ End:
+
+Object: 45.05491,-84.68850
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 41 "
+ End:
+
+Object: 44.95812,-84.67410
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 41 "
+ End:
+
+Object: 45.75189,-87.68250
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 67 "
+ End:
+
+Object: 46.86689,-89.31436
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 36 "
+ End:
+
+Object: 46.30378,-85.26000
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 39 "
+ End:
+
+Object: 42.45383,-83.43096
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 45 "
+ End:
+
+Object: 42.62936,-85.66264
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 43 "
+ End:
+
+Object: 42.27117,-85.44112
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 44 "
+ End:
+
+Object: 42.40464,-86.25104
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 44 "
+ End:
+
+Object: 46.26303,-89.17819
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 33 "
+ End:
+
+Object: 45.79488,-87.07607
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 39 "
+ End:
+
+Object: 45.63515,-84.63519
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 42 "
+ End:
+
+Object: 44.16699,-85.43853
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 58 "
+ End:
+
+Object: 45.28292,-84.93956
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 42 "
+ End:
+
+Object: 45.06139,-84.78222
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 40 "
+ End:
+
+Object: 45.22948,-84.58719
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 43 "
+ End:
+
+Object: 42.61000,-85.26352
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 42 "
+ End:
+
+Object: 46.60047,-85.22383
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 35 "
+ End:
+
+Object: 45.99950,-84.36333
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 40 "
+ End:
+
+Object: 43.05335,-85.90804
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 42 "
+ End:
+
+Object: 43.17153,-86.20579
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 42 "
+ End:
+
+Object: 44.75560,-85.51966
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 42 "
+ End:
+
+Object: 43.97987,-85.08374
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 44 "
+ End:
+
+Object: 43.59563,-85.08577
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 42 "
+ End:
+
+Object: 43.59716,-84.13944
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 45 "
+ End:
+
+Object: 43.17738,-83.76926
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 45 "
+ End:
+
+Object: 42.80168,-83.73001
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 44 "
+ End:
+
+Object: 43.02475,-83.32221
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 44 "
+ End:
+
+Object: 42.99258,-82.95952
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 44 "
+ End:
+
+Object: 43.44028,-83.94859
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 45 "
+ End:
+
+Object: 42.77438,-83.52657
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 44 "
+ End:
+
+Object: 42.47716,-83.11320
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 47 "
+ End:
+
+Object: 42.36772,-83.54567
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 46 "
+ End:
+
+Object: 42.34159,-83.44150
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 44 "
+ End:
+
+Object: 42.27591,-83.16032
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 48 "
+ End:
+
+Object: 42.55585,-82.85956
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 47 "
+ End:
+
+Object: 42.49623,-82.91802
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 46 "
+ End:
+
+Object: 42.46042,-83.10600
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 51 "
+ End:
+
+Object: 43.68627,-85.52183
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 40 "
+ End:
+
+Object: 43.39534,-85.51551
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 41 "
+ End:
+
+Object: 43.40793,-85.08413
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 41 "
+ End:
+
+Object: 43.17743,-84.95516
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 41 "
+ End:
+
+Object: 43.56893,-86.07123
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 40 "
+ End:
+
+Object: 42.64508,-86.18852
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 42 "
+ End:
+
+Object: 42.85980,-84.91296
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 43 "
+ End:
+
+Object: 42.87900,-85.37154
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 42 "
+ End:
+
+Object: 43.08864,-85.63225
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 42 "
+ End:
+
+Object: 42.88868,-85.49475
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 42 "
+ End:
+
+Object: 42.85090,-85.58463
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 42 "
+ End:
+
+Object: 42.81316,-85.98119
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 42 "
+ End:
+
+Object: 42.84836,-85.85974
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 42 "
+ End:
+
+Object: 42.97194,-86.18094
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 42 "
+ End:
+
+Object: 43.09231,-86.09768
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 42 "
+ End:
+
+Object: 43.41006,-86.31459
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 41 "
+ End:
+
+Object: 43.55763,-86.39141
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 41 "
+ End:
+
+Object: 42.16536,-86.32623
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 43 "
+ End:
+
+Object: 42.19361,-86.13017
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 42 "
+ End:
+
+Object: 42.19126,-86.01168
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 42 "
+ End:
+
+Object: 42.17997,-86.23913
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 42 "
+ End:
+
+Object: 42.19939,-85.96676
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 42 "
+ End:
+
+Object: 42.20502,-85.91994
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 42 "
+ End:
+
+Object: 42.21855,-85.84159
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 41 "
+ End:
+
+Object: 42.22328,-85.78503
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 42 "
+ End:
+
+Object: 42.22308,-85.76725
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 42 "
+ End:
+
+Object: 42.22975,-85.72099
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 41 "
+ End:
+
+TimeRange: 2023-12-17T23:50:00Z 2023-12-18T00:00:00Z
+
+Object: 46.48812,-87.23149
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 37 "
+ End:
+
+Object: 46.43164,-86.84492
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 38 "
+ End:
+
+Object: 46.10089,-85.61780
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 40 "
+ End:
+
+Object: 46.00841,-85.00555
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 39 "
+ End:
+
+Object: 46.34538,-86.03578
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 38 "
+ End:
+
+Object: 45.90960,-86.48062
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 39 "
+ End:
+
+Object: 46.88494,-88.86370
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 32 "
+ End:
+
+Object: 46.18625,-84.56087
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 39 "
+ End:
+
+Object: 46.27616,-87.41586
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 36 "
+ End:
+
+Object: 46.16046,-88.87984
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 33 "
+ End:
+
+Object: 45.89735,-84.74475
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 40 "
+ End:
+
+Object: 44.58695,-86.09905
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 42 "
+ End:
+
+Object: 43.95574,-86.33909
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 41 "
+ End:
+
+Object: 43.88729,-85.52686
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 40 "
+ End:
+
+Object: 44.77101,-85.40423
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 43 "
+ End:
+
+Object: 45.36155,-85.17717
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 41 "
+ End:
+
+Object: 44.87660,-84.68803
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 42 "
+ End:
+
+Object: 44.61225,-84.70769
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 42 "
+ End:
+
+Object: 44.33489,-84.80651
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 42 "
+ End:
+
+Object: 44.24511,-84.22731
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 44 "
+ End:
+
+Object: 45.76115,-84.73107
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 41 "
+ End:
+
+Object: 45.27269,-84.59000
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 43 "
+ End:
+
+Object: 46.47730,-89.95190
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 32 "
+ End:
+
+Object: 46.72490,-89.15090
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 33 "
+ End:
+
+Object: 46.47888,-88.99046
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 35 "
+ End:
+
+Object: 46.5346,-87.5278
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 35 "
+ End:
+
+Object: 45.92610,-86.98370
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 40 "
+ End:
+
+Object: 46.15847,-86.97997
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 39 "
+ End:
+
+Object: 46.34746,-87.11595
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 37 "
+ End:
+
+Object: 45.96704,-86.2027
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 39 "
+ End:
+
+Object: 44.80630,-85.89630
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 40 "
+ End:
+
+Object: 44.51230,-85.40220
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 40 "
+ End:
+
+Object: 44.22270,-85.80530
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 40 "
+ End:
+
+Object: 44.21980,-86.30880
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 38 "
+ End:
+
+Object: 45.10740,-85.35210
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 41 "
+ End:
+
+Object: 44.71660,-85.19060
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 40 "
+ End:
+
+Object: 45.06750,-83.71690
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 43 "
+ End:
+
+Object: 45.33100,-83.57540
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 42 "
+ End:
+
+Object: 44.72650,-83.80830
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 42 "
+ End:
+
+Object: 45.05491,-84.68850
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 41 "
+ End:
+
+Object: 44.95812,-84.67410
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 41 "
+ End:
+
+Object: 45.75189,-87.68250
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 66 "
+ End:
+
+Object: 46.86689,-89.31436
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 36 "
+ End:
+
+Object: 46.30378,-85.26000
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 39 "
+ End:
+
+Object: 42.45383,-83.43096
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 45 "
+ End:
+
+Object: 42.62936,-85.66264
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 43 "
+ End:
+
+Object: 42.27117,-85.44112
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 44 "
+ End:
+
+Object: 42.40464,-86.25104
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 44 "
+ End:
+
+Object: 46.26303,-89.17819
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 33 "
+ End:
+
+Object: 45.79488,-87.07607
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 39 "
+ End:
+
+Object: 45.63515,-84.63519
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 41 "
+ End:
+
+Object: 44.16699,-85.43853
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 58 "
+ End:
+
+Object: 45.28292,-84.93956
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 42 "
+ End:
+
+Object: 45.06139,-84.78222
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 40 "
+ End:
+
+Object: 45.22948,-84.58719
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 43 "
+ End:
+
+Object: 42.61000,-85.26352
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 42 "
+ End:
+
+Object: 46.60047,-85.22383
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 35 "
+ End:
+
+Object: 45.99950,-84.36333
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 40 "
+ End:
+
+Object: 43.05335,-85.90804
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 42 "
+ End:
+
+Object: 43.17153,-86.20579
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 42 "
+ End:
+
+Object: 44.75560,-85.51966
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 42 "
+ End:
+
+Object: 43.97987,-85.08374
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 44 "
+ End:
+
+Object: 43.59563,-85.08577
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 42 "
+ End:
+
+Object: 43.59716,-84.13944
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 45 "
+ End:
+
+Object: 43.17738,-83.76926
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 45 "
+ End:
+
+Object: 42.80168,-83.73001
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 44 "
+ End:
+
+Object: 43.02475,-83.32221
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 44 "
+ End:
+
+Object: 42.99258,-82.95952
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 44 "
+ End:
+
+Object: 43.44028,-83.94859
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 45 "
+ End:
+
+Object: 42.77438,-83.52657
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 44 "
+ End:
+
+Object: 42.47716,-83.11320
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 47 "
+ End:
+
+Object: 42.36772,-83.54567
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 46 "
+ End:
+
+Object: 42.34159,-83.44150
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 44 "
+ End:
+
+Object: 42.27591,-83.16032
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 48 "
+ End:
+
+Object: 42.55585,-82.85956
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 46 "
+ End:
+
+Object: 42.49623,-82.91802
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 46 "
+ End:
+
+Object: 42.46042,-83.10600
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 51 "
+ End:
+
+Object: 43.68627,-85.52183
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 40 "
+ End:
+
+Object: 43.39534,-85.51551
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 41 "
+ End:
+
+Object: 43.40793,-85.08413
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 41 "
+ End:
+
+Object: 43.17743,-84.95516
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 42 "
+ End:
+
+Object: 43.56893,-86.07123
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 40 "
+ End:
+
+Object: 42.64508,-86.18852
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 42 "
+ End:
+
+Object: 42.85980,-84.91296
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 43 "
+ End:
+
+Object: 42.87900,-85.37154
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 42 "
+ End:
+
+Object: 43.08864,-85.63225
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 42 "
+ End:
+
+Object: 42.88868,-85.49475
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 42 "
+ End:
+
+Object: 42.85090,-85.58463
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 42 "
+ End:
+
+Object: 42.81316,-85.98119
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 41 "
+ End:
+
+Object: 42.84836,-85.85974
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 42 "
+ End:
+
+Object: 42.97194,-86.18094
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 42 "
+ End:
+
+Object: 43.09231,-86.09768
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 42 "
+ End:
+
+Object: 43.41006,-86.31459
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 41 "
+ End:
+
+Object: 43.55763,-86.39141
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 41 "
+ End:
+
+Object: 42.16536,-86.32623
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 42 "
+ End:
+
+Object: 42.19361,-86.13017
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 42 "
+ End:
+
+Object: 42.19126,-86.01168
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 42 "
+ End:
+
+Object: 42.17997,-86.23913
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 42 "
+ End:
+
+Object: 42.19939,-85.96676
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 42 "
+ End:
+
+Object: 42.20502,-85.91994
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 42 "
+ End:
+
+Object: 42.21855,-85.84159
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 42 "
+ End:
+
+Object: 42.22328,-85.78503
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 42 "
+ End:
+
+Object: 42.22308,-85.76725
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 42 "
+ End:
+
+Object: 42.22975,-85.72099
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 41 "
+ End:
+
+TimeRange: 2023-12-18T00:00:00Z 2023-12-18T00:10:00Z
+
+Object: 46.48812,-87.23149
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 37 "
+ End:
+
+Object: 46.43164,-86.84492
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 37 "
+ End:
+
+Object: 46.10089,-85.61780
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 40 "
+ End:
+
+Object: 46.00841,-85.00555
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 39 "
+ End:
+
+Object: 46.34538,-86.03578
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 38 "
+ End:
+
+Object: 45.90960,-86.48062
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 39 "
+ End:
+
+Object: 46.88494,-88.86370
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 32 "
+ End:
+
+Object: 46.18625,-84.56087
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 39 "
+ End:
+
+Object: 46.27616,-87.41586
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 36 "
+ End:
+
+Object: 46.16046,-88.87984
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 33 "
+ End:
+
+Object: 45.89735,-84.74475
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 40 "
+ End:
+
+Object: 44.58695,-86.09905
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 41 "
+ End:
+
+Object: 43.95574,-86.33909
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 41 "
+ End:
+
+Object: 43.88729,-85.52686
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 40 "
+ End:
+
+Object: 44.77101,-85.40423
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 42 "
+ End:
+
+Object: 45.36155,-85.17717
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 41 "
+ End:
+
+Object: 44.87660,-84.68803
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 41 "
+ End:
+
+Object: 44.61225,-84.70769
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 41 "
+ End:
+
+Object: 44.33489,-84.80651
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 42 "
+ End:
+
+Object: 44.24511,-84.22731
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 44 "
+ End:
+
+Object: 45.76115,-84.73107
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 41 "
+ End:
+
+Object: 45.27269,-84.59000
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 43 "
+ End:
+
+Object: 46.47730,-89.95190
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 32 "
+ End:
+
+Object: 46.72490,-89.15090
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 33 "
+ End:
+
+Object: 46.47888,-88.99046
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 34 "
+ End:
+
+Object: 46.5346,-87.5278
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 35 "
+ End:
+
+Object: 45.92610,-86.98370
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 40 "
+ End:
+
+Object: 46.15847,-86.97997
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 38 "
+ End:
+
+Object: 46.34746,-87.11595
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 37 "
+ End:
+
+Object: 45.96704,-86.2027
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 39 "
+ End:
+
+Object: 44.80630,-85.89630
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 40 "
+ End:
+
+Object: 44.51230,-85.40220
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 40 "
+ End:
+
+Object: 44.22270,-85.80530
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 40 "
+ End:
+
+Object: 44.21980,-86.30880
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 38 "
+ End:
+
+Object: 45.10740,-85.35210
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 41 "
+ End:
+
+Object: 44.71660,-85.19060
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 40 "
+ End:
+
+Object: 45.06750,-83.71690
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 43 "
+ End:
+
+Object: 45.33100,-83.57540
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 42 "
+ End:
+
+Object: 44.72650,-83.80830
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 42 "
+ End:
+
+Object: 45.05491,-84.68850
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 41 "
+ End:
+
+Object: 44.95812,-84.67410
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 40 "
+ End:
+
+Object: 45.75189,-87.68250
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 36 "
+ End:
+
+Object: 46.86689,-89.31436
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 36 "
+ End:
+
+Object: 46.30378,-85.26000
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 39 "
+ End:
+
+Object: 42.45383,-83.43096
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 45 "
+ End:
+
+Object: 42.62936,-85.66264
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 43 "
+ End:
+
+Object: 42.27117,-85.44112
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 44 "
+ End:
+
+Object: 42.40464,-86.25104
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 44 "
+ End:
+
+Object: 46.26303,-89.17819
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 33 "
+ End:
+
+Object: 45.79488,-87.07607
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 39 "
+ End:
+
+Object: 45.63515,-84.63519
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 41 "
+ End:
+
+Object: 44.16699,-85.43853
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 58 "
+ End:
+
+Object: 45.28292,-84.93956
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 42 "
+ End:
+
+Object: 45.06139,-84.78222
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 40 "
+ End:
+
+Object: 45.22948,-84.58719
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 43 "
+ End:
+
+Object: 42.61000,-85.26352
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 42 "
+ End:
+
+Object: 46.60047,-85.22383
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 35 "
+ End:
+
+Object: 45.99950,-84.36333
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 40 "
+ End:
+
+Object: 43.05335,-85.90804
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 42 "
+ End:
+
+Object: 43.17153,-86.20579
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 42 "
+ End:
+
+Object: 44.75560,-85.51966
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 42 "
+ End:
+
+Object: 43.97987,-85.08374
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 44 "
+ End:
+
+Object: 43.59563,-85.08577
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 42 "
+ End:
+
+Object: 43.59716,-84.13944
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 45 "
+ End:
+
+Object: 43.17738,-83.76926
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 45 "
+ End:
+
+Object: 42.80168,-83.73001
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 45 "
+ End:
+
+Object: 43.02475,-83.32221
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 43 "
+ End:
+
+Object: 42.99258,-82.95952
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 44 "
+ End:
+
+Object: 43.44028,-83.94859
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 45 "
+ End:
+
+Object: 42.77438,-83.52657
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 44 "
+ End:
+
+Object: 42.47716,-83.11320
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 47 "
+ End:
+
+Object: 42.36772,-83.54567
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 46 "
+ End:
+
+Object: 42.34159,-83.44150
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 44 "
+ End:
+
+Object: 42.27591,-83.16032
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 47 "
+ End:
+
+Object: 42.55585,-82.85956
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 46 "
+ End:
+
+Object: 42.49623,-82.91802
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 45 "
+ End:
+
+Object: 42.46042,-83.10600
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 51 "
+ End:
+
+Object: 43.68627,-85.52183
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 40 "
+ End:
+
+Object: 43.39534,-85.51551
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 41 "
+ End:
+
+Object: 43.40793,-85.08413
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 41 "
+ End:
+
+Object: 43.17743,-84.95516
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 41 "
+ End:
+
+Object: 43.56893,-86.07123
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 40 "
+ End:
+
+Object: 42.64508,-86.18852
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 42 "
+ End:
+
+Object: 42.85980,-84.91296
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 43 "
+ End:
+
+Object: 42.87900,-85.37154
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 42 "
+ End:
+
+Object: 43.08864,-85.63225
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 42 "
+ End:
+
+Object: 42.88868,-85.49475
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 42 "
+ End:
+
+Object: 42.85090,-85.58463
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 42 "
+ End:
+
+Object: 42.81316,-85.98119
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 41 "
+ End:
+
+Object: 42.84836,-85.85974
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 42 "
+ End:
+
+Object: 42.97194,-86.18094
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 42 "
+ End:
+
+Object: 43.09231,-86.09768
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 42 "
+ End:
+
+Object: 43.41006,-86.31459
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 41 "
+ End:
+
+Object: 43.55763,-86.39141
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 41 "
+ End:
+
+Object: 42.16536,-86.32623
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 42 "
+ End:
+
+Object: 42.19361,-86.13017
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 42 "
+ End:
+
+Object: 42.19126,-86.01168
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 42 "
+ End:
+
+Object: 42.17997,-86.23913
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 42 "
+ End:
+
+Object: 42.19939,-85.96676
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 42 "
+ End:
+
+Object: 42.20502,-85.91994
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 42 "
+ End:
+
+Object: 42.21855,-85.84159
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 42 "
+ End:
+
+Object: 42.22328,-85.78503
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 42 "
+ End:
+
+Object: 42.22308,-85.76725
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 42 "
+ End:
+
+Object: 42.22975,-85.72099
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 41 "
+ End:
+
+TimeRange: 2023-12-18T00:10:00Z 2023-12-18T00:20:00Z
+
+Object: 46.48812,-87.23149
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 37 "
+ End:
+
+Object: 46.43164,-86.84492
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 37 "
+ End:
+
+Object: 46.10089,-85.61780
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 40 "
+ End:
+
+Object: 46.00841,-85.00555
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 39 "
+ End:
+
+Object: 46.34538,-86.03578
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 38 "
+ End:
+
+Object: 45.90960,-86.48062
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 39 "
+ End:
+
+Object: 46.88494,-88.86370
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 32 "
+ End:
+
+Object: 46.18625,-84.56087
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 39 "
+ End:
+
+Object: 46.27616,-87.41586
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 36 "
+ End:
+
+Object: 46.16046,-88.87984
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 33 "
+ End:
+
+Object: 45.89735,-84.74475
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 40 "
+ End:
+
+Object: 44.58695,-86.09905
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 41 "
+ End:
+
+Object: 43.95574,-86.33909
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 41 "
+ End:
+
+Object: 43.88729,-85.52686
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 40 "
+ End:
+
+Object: 44.77101,-85.40423
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 42 "
+ End:
+
+Object: 45.36155,-85.17717
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 41 "
+ End:
+
+Object: 44.87660,-84.68803
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 41 "
+ End:
+
+Object: 44.61225,-84.70769
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 41 "
+ End:
+
+Object: 44.33489,-84.80651
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 42 "
+ End:
+
+Object: 44.24511,-84.22731
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 44 "
+ End:
+
+Object: 45.76115,-84.73107
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 41 "
+ End:
+
+Object: 45.27269,-84.59000
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 43 "
+ End:
+
+Object: 46.47730,-89.95190
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 32 "
+ End:
+
+Object: 46.72490,-89.15090
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 33 "
+ End:
+
+Object: 46.47888,-88.99046
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 34 "
+ End:
+
+Object: 46.5346,-87.5278
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 35 "
+ End:
+
+Object: 45.92610,-86.98370
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 39 "
+ End:
+
+Object: 46.15847,-86.97997
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 38 "
+ End:
+
+Object: 46.34746,-87.11595
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 37 "
+ End:
+
+Object: 45.96704,-86.2027
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 39 "
+ End:
+
+Object: 44.51230,-85.40220
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 40 "
+ End:
+
+Object: 44.22270,-85.80530
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 40 "
+ End:
+
+Object: 44.21980,-86.30880
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 38 "
+ End:
+
+Object: 45.10740,-85.35210
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 41 "
+ End:
+
+Object: 44.71660,-85.19060
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 40 "
+ End:
+
+Object: 45.06750,-83.71690
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 43 "
+ End:
+
+Object: 45.33100,-83.57540
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 42 "
+ End:
+
+Object: 44.72650,-83.80830
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 42 "
+ End:
+
+Object: 45.05491,-84.68850
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 41 "
+ End:
+
+Object: 44.95812,-84.67410
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 40 "
+ End:
+
+Object: 45.75189,-87.68250
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 66 "
+ End:
+
+Object: 46.86689,-89.31436
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 36 "
+ End:
+
+Object: 46.30378,-85.26000
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 39 "
+ End:
+
+Object: 42.45383,-83.43096
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 45 "
+ End:
+
+Object: 42.62936,-85.66264
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 43 "
+ End:
+
+Object: 42.27117,-85.44112
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 44 "
+ End:
+
+Object: 42.40464,-86.25104
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 44 "
+ End:
+
+Object: 46.26303,-89.17819
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 33 "
+ End:
+
+Object: 45.79488,-87.07607
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 39 "
+ End:
+
+Object: 45.63515,-84.63519
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 41 "
+ End:
+
+Object: 44.16699,-85.43853
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 58 "
+ End:
+
+Object: 45.28292,-84.93956
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 42 "
+ End:
+
+Object: 45.06139,-84.78222
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 40 "
+ End:
+
+Object: 45.22948,-84.58719
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 42 "
+ End:
+
+Object: 42.61000,-85.26352
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 42 "
+ End:
+
+Object: 46.60047,-85.22383
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 35 "
+ End:
+
+Object: 45.99950,-84.36333
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 40 "
+ End:
+
+Object: 43.05335,-85.90804
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 42 "
+ End:
+
+Object: 43.17153,-86.20579
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 42 "
+ End:
+
+Object: 44.75560,-85.51966
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 42 "
+ End:
+
+Object: 43.97987,-85.08374
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 44 "
+ End:
+
+Object: 43.59563,-85.08577
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 42 "
+ End:
+
+Object: 43.59716,-84.13944
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 45 "
+ End:
+
+Object: 43.17738,-83.76926
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 45 "
+ End:
+
+Object: 42.80168,-83.73001
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 45 "
+ End:
+
+Object: 43.02475,-83.32221
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 43 "
+ End:
+
+Object: 42.99258,-82.95952
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 44 "
+ End:
+
+Object: 43.44028,-83.94859
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 45 "
+ End:
+
+Object: 42.77438,-83.52657
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 44 "
+ End:
+
+Object: 42.47716,-83.11320
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 47 "
+ End:
+
+Object: 42.36772,-83.54567
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 46 "
+ End:
+
+Object: 42.34159,-83.44150
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 44 "
+ End:
+
+Object: 42.27591,-83.16032
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 47 "
+ End:
+
+Object: 42.55585,-82.85956
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 46 "
+ End:
+
+Object: 42.49623,-82.91802
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 45 "
+ End:
+
+Object: 42.46042,-83.10600
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 51 "
+ End:
+
+Object: 43.68627,-85.52183
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 40 "
+ End:
+
+Object: 43.39534,-85.51551
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 41 "
+ End:
+
+Object: 43.40793,-85.08413
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 41 "
+ End:
+
+Object: 43.17743,-84.95516
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 41 "
+ End:
+
+Object: 43.56893,-86.07123
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 40 "
+ End:
+
+Object: 42.64508,-86.18852
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 41 "
+ End:
+
+Object: 42.85980,-84.91296
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 42 "
+ End:
+
+Object: 42.87900,-85.37154
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 42 "
+ End:
+
+Object: 43.08864,-85.63225
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 42 "
+ End:
+
+Object: 42.88868,-85.49475
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 42 "
+ End:
+
+Object: 42.85090,-85.58463
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 42 "
+ End:
+
+Object: 42.81316,-85.98119
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 41 "
+ End:
+
+Object: 42.84836,-85.85974
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 42 "
+ End:
+
+Object: 42.97194,-86.18094
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 42 "
+ End:
+
+Object: 43.09231,-86.09768
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 42 "
+ End:
+
+Object: 43.41006,-86.31459
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 41 "
+ End:
+
+Object: 43.55763,-86.39141
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 41 "
+ End:
+
+Object: 42.16536,-86.32623
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 42 "
+ End:
+
+Object: 42.19361,-86.13017
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 41 "
+ End:
+
+Object: 42.19126,-86.01168
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 42 "
+ End:
+
+Object: 42.17997,-86.23913
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 42 "
+ End:
+
+Object: 42.19939,-85.96676
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 42 "
+ End:
+
+Object: 42.20502,-85.91994
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 42 "
+ End:
+
+Object: 42.21855,-85.84159
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 42 "
+ End:
+
+Object: 42.22328,-85.78503
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 42 "
+ End:
+
+Object: 42.22308,-85.76725
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 42 "
+ End:
+
+Object: 42.22975,-85.72099
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 41 "
+ End:
+
+TimeRange: 2023-12-18T00:20:00Z 2023-12-18T00:30:00Z
+
+Object: 46.48812,-87.23149
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 37 "
+ End:
+
+Object: 46.43164,-86.84492
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 37 "
+ End:
+
+Object: 46.10089,-85.61780
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 40 "
+ End:
+
+Object: 46.00841,-85.00555
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 39 "
+ End:
+
+Object: 46.34538,-86.03578
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 38 "
+ End:
+
+Object: 45.90960,-86.48062
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 39 "
+ End:
+
+Object: 46.88494,-88.86370
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 32 "
+ End:
+
+Object: 46.18625,-84.56087
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 39 "
+ End:
+
+Object: 46.27616,-87.41586
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 36 "
+ End:
+
+Object: 46.16046,-88.87984
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 33 "
+ End:
+
+Object: 45.89735,-84.74475
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 40 "
+ End:
+
+Object: 44.58695,-86.09905
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 41 "
+ End:
+
+Object: 43.95574,-86.33909
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 41 "
+ End:
+
+Object: 43.88729,-85.52686
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 40 "
+ End:
+
+Object: 44.77101,-85.40423
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 42 "
+ End:
+
+Object: 45.36155,-85.17717
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 41 "
+ End:
+
+Object: 44.87660,-84.68803
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 41 "
+ End:
+
+Object: 44.61225,-84.70769
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 41 "
+ End:
+
+Object: 44.33489,-84.80651
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 41 "
+ End:
+
+Object: 44.24511,-84.22731
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 44 "
+ End:
+
+Object: 45.76115,-84.73107
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 41 "
+ End:
+
+Object: 45.27269,-84.59000
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 42 "
+ End:
+
+Object: 46.47730,-89.95190
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 32 "
+ End:
+
+Object: 46.72490,-89.15090
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 33 "
+ End:
+
+Object: 46.47888,-88.99046
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 34 "
+ End:
+
+Object: 46.5346,-87.5278
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 34 "
+ End:
+
+Object: 45.92610,-86.98370
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 39 "
+ End:
+
+Object: 46.15847,-86.97997
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 38 "
+ End:
+
+Object: 46.34746,-87.11595
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 37 "
+ End:
+
+Object: 45.96704,-86.2027
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 39 "
+ End:
+
+Object: 44.51230,-85.40220
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 40 "
+ End:
+
+Object: 44.22270,-85.80530
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 40 "
+ End:
+
+Object: 44.21980,-86.30880
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 38 "
+ End:
+
+Object: 45.10740,-85.35210
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 41 "
+ End:
+
+Object: 44.71660,-85.19060
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 40 "
+ End:
+
+Object: 45.06750,-83.71690
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 43 "
+ End:
+
+Object: 45.33100,-83.57540
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 42 "
+ End:
+
+Object: 44.72650,-83.80830
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 42 "
+ End:
+
+Object: 45.05491,-84.68850
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 41 "
+ End:
+
+Object: 44.95812,-84.67410
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 40 "
+ End:
+
+Object: 45.75189,-87.68250
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 65 "
+ End:
+
+Object: 46.86689,-89.31436
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 35 "
+ End:
+
+Object: 46.30378,-85.26000
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 39 "
+ End:
+
+Object: 42.45383,-83.43096
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 46 "
+ End:
+
+Object: 42.62936,-85.66264
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 43 "
+ End:
+
+Object: 42.27117,-85.44112
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 44 "
+ End:
+
+Object: 42.40464,-86.25104
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 44 "
+ End:
+
+Object: 46.26303,-89.17819
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 33 "
+ End:
+
+Object: 45.79488,-87.07607
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 39 "
+ End:
+
+Object: 45.63515,-84.63519
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 41 "
+ End:
+
+Object: 44.16699,-85.43853
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 58 "
+ End:
+
+Object: 45.28292,-84.93956
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 42 "
+ End:
+
+Object: 45.06139,-84.78222
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 39 "
+ End:
+
+Object: 45.22948,-84.58719
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 42 "
+ End:
+
+Object: 42.61000,-85.26352
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 41 "
+ End:
+
+Object: 46.60047,-85.22383
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 35 "
+ End:
+
+Object: 45.99950,-84.36333
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 39 "
+ End:
+
+Object: 43.05335,-85.90804
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 42 "
+ End:
+
+Object: 43.17153,-86.20579
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 42 "
+ End:
+
+Object: 44.75560,-85.51966
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 42 "
+ End:
+
+Object: 43.97987,-85.08374
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 44 "
+ End:
+
+Object: 43.59563,-85.08577
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 42 "
+ End:
+
+Object: 43.59716,-84.13944
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 45 "
+ End:
+
+Object: 43.17738,-83.76926
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 45 "
+ End:
+
+Object: 42.80168,-83.73001
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 45 "
+ End:
+
+Object: 43.02475,-83.32221
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 43 "
+ End:
+
+Object: 42.99258,-82.95952
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 44 "
+ End:
+
+Object: 43.44028,-83.94859
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 45 "
+ End:
+
+Object: 42.77438,-83.52657
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 44 "
+ End:
+
+Object: 42.47716,-83.11320
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 47 "
+ End:
+
+Object: 42.36772,-83.54567
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 46 "
+ End:
+
+Object: 42.34159,-83.44150
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 44 "
+ End:
+
+Object: 42.27591,-83.16032
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 47 "
+ End:
+
+Object: 42.55585,-82.85956
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 46 "
+ End:
+
+Object: 42.49623,-82.91802
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 45 "
+ End:
+
+Object: 42.46042,-83.10600
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 51 "
+ End:
+
+Object: 43.68627,-85.52183
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 40 "
+ End:
+
+Object: 43.39534,-85.51551
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 41 "
+ End:
+
+Object: 43.40793,-85.08413
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 41 "
+ End:
+
+Object: 43.17743,-84.95516
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 41 "
+ End:
+
+Object: 43.56893,-86.07123
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 40 "
+ End:
+
+Object: 42.64508,-86.18852
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 41 "
+ End:
+
+Object: 42.85980,-84.91296
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 42 "
+ End:
+
+Object: 42.87900,-85.37154
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 42 "
+ End:
+
+Object: 43.08864,-85.63225
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 42 "
+ End:
+
+Object: 42.88868,-85.49475
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 42 "
+ End:
+
+Object: 42.85090,-85.58463
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 42 "
+ End:
+
+Object: 42.81316,-85.98119
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 41 "
+ End:
+
+Object: 42.84836,-85.85974
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 42 "
+ End:
+
+Object: 42.97194,-86.18094
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 42 "
+ End:
+
+Object: 43.09231,-86.09768
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 42 "
+ End:
+
+Object: 43.41006,-86.31459
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 42 "
+ End:
+
+Object: 43.55763,-86.39141
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 41 "
+ End:
+
+Object: 42.16536,-86.32623
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 42 "
+ End:
+
+Object: 42.19361,-86.13017
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 41 "
+ End:
+
+Object: 42.19126,-86.01168
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 42 "
+ End:
+
+Object: 42.17997,-86.23913
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 41 "
+ End:
+
+Object: 42.19939,-85.96676
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 42 "
+ End:
+
+Object: 42.20502,-85.91994
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 42 "
+ End:
+
+Object: 42.21855,-85.84159
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 42 "
+ End:
+
+Object: 42.22328,-85.78503
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 41 "
+ End:
+
+Object: 42.22308,-85.76725
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 41 "
+ End:
+
+Object: 42.22975,-85.72099
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 41 "
+ End:
+
+TimeRange: 2023-12-18T00:30:00Z 2023-12-18T00:40:00Z
+
+Object: 46.48812,-87.23149
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 37 "
+ End:
+
+Object: 46.43164,-86.84492
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 37 "
+ End:
+
+Object: 46.10089,-85.61780
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 40 "
+ End:
+
+Object: 46.00841,-85.00555
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 39 "
+ End:
+
+Object: 46.34538,-86.03578
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 37 "
+ End:
+
+Object: 45.90960,-86.48062
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 39 "
+ End:
+
+Object: 46.88494,-88.86370
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 32 "
+ End:
+
+Object: 46.18625,-84.56087
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 39 "
+ End:
+
+Object: 46.27616,-87.41586
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 36 "
+ End:
+
+Object: 46.16046,-88.87984
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 33 "
+ End:
+
+Object: 45.89735,-84.74475
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 40 "
+ End:
+
+Object: 44.58695,-86.09905
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 41 "
+ End:
+
+Object: 43.95574,-86.33909
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 41 "
+ End:
+
+Object: 43.88729,-85.52686
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 40 "
+ End:
+
+Object: 44.77101,-85.40423
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 42 "
+ End:
+
+Object: 45.36155,-85.17717
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 41 "
+ End:
+
+Object: 44.87660,-84.68803
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 41 "
+ End:
+
+Object: 44.61225,-84.70769
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 41 "
+ End:
+
+Object: 44.33489,-84.80651
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 41 "
+ End:
+
+Object: 44.24511,-84.22731
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 44 "
+ End:
+
+Object: 45.76115,-84.73107
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 41 "
+ End:
+
+Object: 45.27269,-84.59000
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 42 "
+ End:
+
+Object: 46.47730,-89.95190
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 32 "
+ End:
+
+Object: 46.72490,-89.15090
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 34 "
+ End:
+
+Object: 46.47888,-88.99046
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 34 "
+ End:
+
+Object: 46.5346,-87.5278
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 34 "
+ End:
+
+Object: 45.92610,-86.98370
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 39 "
+ End:
+
+Object: 46.15847,-86.97997
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 38 "
+ End:
+
+Object: 46.34746,-87.11595
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 36 "
+ End:
+
+Object: 45.96704,-86.2027
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 39 "
+ End:
+
+Object: 44.51230,-85.40220
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 40 "
+ End:
+
+Object: 44.22270,-85.80530
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 40 "
+ End:
+
+Object: 44.21980,-86.30880
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 38 "
+ End:
+
+Object: 45.10740,-85.35210
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 41 "
+ End:
+
+Object: 44.71660,-85.19060
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 40 "
+ End:
+
+Object: 45.06750,-83.71690
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 42 "
+ End:
+
+Object: 45.33100,-83.57540
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 42 "
+ End:
+
+Object: 44.72650,-83.80830
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 42 "
+ End:
+
+Object: 45.05491,-84.68850
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 41 "
+ End:
+
+Object: 44.95812,-84.67410
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 40 "
+ End:
+
+Object: 45.75189,-87.68250
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 36 "
+ End:
+
+Object: 46.86689,-89.31436
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 34 "
+ End:
+
+Object: 46.30378,-85.26000
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 39 "
+ End:
+
+Object: 42.45383,-83.43096
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 45 "
+ End:
+
+Object: 42.62936,-85.66264
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 43 "
+ End:
+
+Object: 42.27117,-85.44112
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 44 "
+ End:
+
+Object: 42.40464,-86.25104
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 44 "
+ End:
+
+Object: 46.26303,-89.17819
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 32 "
+ End:
+
+Object: 45.79488,-87.07607
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 39 "
+ End:
+
+Object: 45.63515,-84.63519
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 41 "
+ End:
+
+Object: 44.16699,-85.43853
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 58 "
+ End:
+
+Object: 45.28292,-84.93956
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 42 "
+ End:
+
+Object: 45.06139,-84.78222
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 39 "
+ End:
+
+Object: 45.22948,-84.58719
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 42 "
+ End:
+
+Object: 42.61000,-85.26352
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 41 "
+ End:
+
+Object: 46.60047,-85.22383
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 35 "
+ End:
+
+Object: 45.99950,-84.36333
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 39 "
+ End:
+
+Object: 43.05335,-85.90804
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 42 "
+ End:
+
+Object: 43.17153,-86.20579
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 41 "
+ End:
+
+Object: 44.75560,-85.51966
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 41 "
+ End:
+
+Object: 43.97987,-85.08374
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 44 "
+ End:
+
+Object: 43.59563,-85.08577
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 42 "
+ End:
+
+Object: 43.59716,-84.13944
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 45 "
+ End:
+
+Object: 43.17738,-83.76926
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 45 "
+ End:
+
+Object: 42.80168,-83.73001
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 45 "
+ End:
+
+Object: 43.02475,-83.32221
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 43 "
+ End:
+
+Object: 42.99258,-82.95952
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 44 "
+ End:
+
+Object: 43.44028,-83.94859
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 45 "
+ End:
+
+Object: 42.77438,-83.52657
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 44 "
+ End:
+
+Object: 42.47716,-83.11320
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 47 "
+ End:
+
+Object: 42.36772,-83.54567
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 46 "
+ End:
+
+Object: 42.34159,-83.44150
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 44 "
+ End:
+
+Object: 42.27591,-83.16032
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 47 "
+ End:
+
+Object: 42.55585,-82.85956
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 46 "
+ End:
+
+Object: 42.49623,-82.91802
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 45 "
+ End:
+
+Object: 42.46042,-83.10600
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 51 "
+ End:
+
+Object: 43.68627,-85.52183
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 40 "
+ End:
+
+Object: 43.39534,-85.51551
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 41 "
+ End:
+
+Object: 43.40793,-85.08413
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 40 "
+ End:
+
+Object: 43.17743,-84.95516
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 41 "
+ End:
+
+Object: 43.56893,-86.07123
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 40 "
+ End:
+
+Object: 42.64508,-86.18852
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 41 "
+ End:
+
+Object: 42.85980,-84.91296
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 42 "
+ End:
+
+Object: 42.87900,-85.37154
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 42 "
+ End:
+
+Object: 43.08864,-85.63225
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 42 "
+ End:
+
+Object: 42.88868,-85.49475
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 42 "
+ End:
+
+Object: 42.85090,-85.58463
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 42 "
+ End:
+
+Object: 42.81316,-85.98119
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 41 "
+ End:
+
+Object: 42.84836,-85.85974
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 42 "
+ End:
+
+Object: 42.97194,-86.18094
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 42 "
+ End:
+
+Object: 43.09231,-86.09768
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 42 "
+ End:
+
+Object: 43.41006,-86.31459
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 42 "
+ End:
+
+Object: 43.55763,-86.39141
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 41 "
+ End:
+
+Object: 42.16536,-86.32623
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 42 "
+ End:
+
+Object: 42.19361,-86.13017
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 41 "
+ End:
+
+Object: 42.19126,-86.01168
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 42 "
+ End:
+
+Object: 42.17997,-86.23913
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 41 "
+ End:
+
+Object: 42.19939,-85.96676
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 42 "
+ End:
+
+Object: 42.20502,-85.91994
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 42 "
+ End:
+
+Object: 42.21855,-85.84159
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 42 "
+ End:
+
+Object: 42.22328,-85.78503
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 42 "
+ End:
+
+Object: 42.22308,-85.76725
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 42 "
+ End:
+
+Object: 42.22975,-85.72099
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 41 "
+ End:
+
+TimeRange: 2023-12-18T00:40:00Z 2023-12-18T00:50:00Z
+
+Object: 46.48812,-87.23149
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 37 "
+ End:
+
+Object: 46.43164,-86.84492
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 37 "
+ End:
+
+Object: 46.10089,-85.61780
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 40 "
+ End:
+
+Object: 46.00841,-85.00555
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 39 "
+ End:
+
+Object: 46.34538,-86.03578
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 37 "
+ End:
+
+Object: 45.90960,-86.48062
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 39 "
+ End:
+
+Object: 46.88494,-88.86370
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 32 "
+ End:
+
+Object: 46.18625,-84.56087
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 39 "
+ End:
+
+Object: 46.27616,-87.41586
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 36 "
+ End:
+
+Object: 46.16046,-88.87984
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 33 "
+ End:
+
+Object: 45.89735,-84.74475
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 40 "
+ End:
+
+Object: 44.58695,-86.09905
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 41 "
+ End:
+
+Object: 43.95574,-86.33909
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 41 "
+ End:
+
+Object: 43.88729,-85.52686
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 40 "
+ End:
+
+Object: 44.77101,-85.40423
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 42 "
+ End:
+
+Object: 45.36155,-85.17717
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 41 "
+ End:
+
+Object: 44.87660,-84.68803
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 41 "
+ End:
+
+Object: 44.61225,-84.70769
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 41 "
+ End:
+
+Object: 44.33489,-84.80651
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 41 "
+ End:
+
+Object: 44.24511,-84.22731
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 43 "
+ End:
+
+Object: 45.76115,-84.73107
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 41 "
+ End:
+
+Object: 45.27269,-84.59000
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 42 "
+ End:
+
+Object: 46.47730,-89.95190
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 32 "
+ End:
+
+Object: 46.72490,-89.15090
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 34 "
+ End:
+
+Object: 46.47888,-88.99046
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 34 "
+ End:
+
+Object: 46.5346,-87.5278
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 34 "
+ End:
+
+Object: 45.92610,-86.98370
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 39 "
+ End:
+
+Object: 46.15847,-86.97997
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 38 "
+ End:
+
+Object: 46.34746,-87.11595
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 36 "
+ End:
+
+Object: 45.96704,-86.2027
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 39 "
+ End:
+
+Object: 44.51230,-85.40220
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 40 "
+ End:
+
+Object: 44.22270,-85.80530
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 40 "
+ End:
+
+Object: 44.21980,-86.30880
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 37 "
+ End:
+
+Object: 45.10740,-85.35210
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 41 "
+ End:
+
+Object: 44.71660,-85.19060
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 40 "
+ End:
+
+Object: 45.06750,-83.71690
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 42 "
+ End:
+
+Object: 45.33100,-83.57540
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 42 "
+ End:
+
+Object: 44.72650,-83.80830
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 42 "
+ End:
+
+Object: 45.05491,-84.68850
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 40 "
+ End:
+
+Object: 44.95812,-84.67410
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 40 "
+ End:
+
+Object: 45.75189,-87.68250
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 65 "
+ End:
+
+Object: 46.86689,-89.31436
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 34 "
+ End:
+
+Object: 46.30378,-85.26000
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 38 "
+ End:
+
+Object: 42.45383,-83.43096
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 46 "
+ End:
+
+Object: 42.62936,-85.66264
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 43 "
+ End:
+
+Object: 42.27117,-85.44112
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 44 "
+ End:
+
+Object: 42.40464,-86.25104
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 44 "
+ End:
+
+Object: 46.26303,-89.17819
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 31 "
+ End:
+
+Object: 45.79488,-87.07607
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 38 "
+ End:
+
+Object: 45.63515,-84.63519
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 41 "
+ End:
+
+Object: 44.16699,-85.43853
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 58 "
+ End:
+
+Object: 45.28292,-84.93956
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 42 "
+ End:
+
+Object: 45.06139,-84.78222
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 39 "
+ End:
+
+Object: 45.22948,-84.58719
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 42 "
+ End:
+
+Object: 42.61000,-85.26352
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 41 "
+ End:
+
+Object: 46.60047,-85.22383
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 34 "
+ End:
+
+Object: 45.99950,-84.36333
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 39 "
+ End:
+
+Object: 43.05335,-85.90804
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 42 "
+ End:
+
+Object: 43.17153,-86.20579
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 41 "
+ End:
+
+Object: 44.75560,-85.51966
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 41 "
+ End:
+
+Object: 43.97987,-85.08374
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 44 "
+ End:
+
+Object: 43.59563,-85.08577
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 42 "
+ End:
+
+Object: 43.59716,-84.13944
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 45 "
+ End:
+
+Object: 43.17738,-83.76926
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 45 "
+ End:
+
+Object: 42.80168,-83.73001
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 44 "
+ End:
+
+Object: 43.02475,-83.32221
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 43 "
+ End:
+
+Object: 42.99258,-82.95952
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 44 "
+ End:
+
+Object: 43.44028,-83.94859
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 45 "
+ End:
+
+Object: 42.77438,-83.52657
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 44 "
+ End:
+
+Object: 42.47716,-83.11320
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 47 "
+ End:
+
+Object: 42.36772,-83.54567
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 46 "
+ End:
+
+Object: 42.34159,-83.44150
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 44 "
+ End:
+
+Object: 42.27591,-83.16032
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 47 "
+ End:
+
+Object: 42.55585,-82.85956
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 46 "
+ End:
+
+Object: 42.49623,-82.91802
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 45 "
+ End:
+
+Object: 42.46042,-83.10600
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 51 "
+ End:
+
+Object: 43.68627,-85.52183
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 40 "
+ End:
+
+Object: 43.39534,-85.51551
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 41 "
+ End:
+
+Object: 43.40793,-85.08413
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 40 "
+ End:
+
+Object: 43.17743,-84.95516
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 41 "
+ End:
+
+Object: 43.56893,-86.07123
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 40 "
+ End:
+
+Object: 42.64508,-86.18852
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 41 "
+ End:
+
+Object: 42.85980,-84.91296
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 42 "
+ End:
+
+Object: 42.87900,-85.37154
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 42 "
+ End:
+
+Object: 43.08864,-85.63225
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 42 "
+ End:
+
+Object: 42.88868,-85.49475
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 42 "
+ End:
+
+Object: 42.85090,-85.58463
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 42 "
+ End:
+
+Object: 42.81316,-85.98119
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 41 "
+ End:
+
+Object: 42.84836,-85.85974
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 42 "
+ End:
+
+Object: 42.97194,-86.18094
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 41 "
+ End:
+
+Object: 43.09231,-86.09768
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 41 "
+ End:
+
+Object: 43.41006,-86.31459
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 41 "
+ End:
+
+Object: 43.55763,-86.39141
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 41 "
+ End:
+
+Object: 42.16536,-86.32623
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 42 "
+ End:
+
+Object: 42.19361,-86.13017
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 41 "
+ End:
+
+Object: 42.19126,-86.01168
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 42 "
+ End:
+
+Object: 42.17997,-86.23913
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 41 "
+ End:
+
+Object: 42.19939,-85.96676
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 42 "
+ End:
+
+Object: 42.20502,-85.91994
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 42 "
+ End:
+
+Object: 42.21855,-85.84159
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 41 "
+ End:
+
+Object: 42.22328,-85.78503
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 42 "
+ End:
+
+Object: 42.22308,-85.76725
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 42 "
+ End:
+
+Object: 42.22975,-85.72099
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 41 "
+ End:
+
+TimeRange: 2023-12-18T00:50:00Z 2023-12-18T01:00:00Z
+
+Object: 46.48812,-87.23149
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 36 "
+ End:
+
+Object: 46.43164,-86.84492
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 37 "
+ End:
+
+Object: 46.10089,-85.61780
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 39 "
+ End:
+
+Object: 46.00841,-85.00555
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 39 "
+ End:
+
+Object: 46.34538,-86.03578
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 37 "
+ End:
+
+Object: 45.90960,-86.48062
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 39 "
+ End:
+
+Object: 46.88494,-88.86370
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 32 "
+ End:
+
+Object: 46.18625,-84.56087
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 39 "
+ End:
+
+Object: 46.27616,-87.41586
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 36 "
+ End:
+
+Object: 46.16046,-88.87984
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 33 "
+ End:
+
+Object: 45.89735,-84.74475
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 40 "
+ End:
+
+Object: 44.58695,-86.09905
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 41 "
+ End:
+
+Object: 43.95574,-86.33909
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 41 "
+ End:
+
+Object: 43.88729,-85.52686
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 40 "
+ End:
+
+Object: 44.77101,-85.40423
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 42 "
+ End:
+
+Object: 45.36155,-85.17717
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 41 "
+ End:
+
+Object: 44.87660,-84.68803
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 40 "
+ End:
+
+Object: 44.61225,-84.70769
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 41 "
+ End:
+
+Object: 44.33489,-84.80651
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 41 "
+ End:
+
+Object: 44.24511,-84.22731
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 43 "
+ End:
+
+Object: 45.76115,-84.73107
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 40 "
+ End:
+
+Object: 45.27269,-84.59000
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 42 "
+ End:
+
+Object: 46.47730,-89.95190
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 32 "
+ End:
+
+Object: 46.72490,-89.15090
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 34 "
+ End:
+
+Object: 46.47888,-88.99046
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 33 "
+ End:
+
+Object: 46.5346,-87.5278
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 34 "
+ End:
+
+Object: 45.92610,-86.98370
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 39 "
+ End:
+
+Object: 46.15847,-86.97997
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 37 "
+ End:
+
+Object: 46.34746,-87.11595
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 36 "
+ End:
+
+Object: 45.96704,-86.2027
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 39 "
+ End:
+
+Object: 44.51230,-85.40220
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 40 "
+ End:
+
+Object: 44.22270,-85.80530
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 40 "
+ End:
+
+Object: 44.21980,-86.30880
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 37 "
+ End:
+
+Object: 45.10740,-85.35210
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 41 "
+ End:
+
+Object: 44.71660,-85.19060
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 40 "
+ End:
+
+Object: 45.06750,-83.71690
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 42 "
+ End:
+
+Object: 45.33100,-83.57540
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 42 "
+ End:
+
+Object: 44.72650,-83.80830
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 42 "
+ End:
+
+Object: 45.05491,-84.68850
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 40 "
+ End:
+
+Object: 44.95812,-84.67410
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 40 "
+ End:
+
+Object: 45.75189,-87.68250
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 65 "
+ End:
+
+Object: 46.86689,-89.31436
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 34 "
+ End:
+
+Object: 46.30378,-85.26000
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 38 "
+ End:
+
+Object: 42.45383,-83.43096
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 46 "
+ End:
+
+Object: 42.62936,-85.66264
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 43 "
+ End:
+
+Object: 42.27117,-85.44112
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 44 "
+ End:
+
+Object: 42.40464,-86.25104
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 44 "
+ End:
+
+Object: 46.26303,-89.17819
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 31 "
+ End:
+
+Object: 45.79488,-87.07607
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 38 "
+ End:
+
+Object: 45.63515,-84.63519
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 41 "
+ End:
+
+Object: 44.16699,-85.43853
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 58 "
+ End:
+
+Object: 45.28292,-84.93956
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 42 "
+ End:
+
+Object: 45.06139,-84.78222
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 39 "
+ End:
+
+Object: 45.22948,-84.58719
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 42 "
+ End:
+
+Object: 42.61000,-85.26352
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 41 "
+ End:
+
+Object: 46.60047,-85.22383
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 34 "
+ End:
+
+Object: 45.99950,-84.36333
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 39 "
+ End:
+
+Object: 43.05335,-85.90804
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 42 "
+ End:
+
+Object: 43.17153,-86.20579
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 41 "
+ End:
+
+Object: 44.75560,-85.51966
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 41 "
+ End:
+
+Object: 43.97987,-85.08374
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 43 "
+ End:
+
+Object: 43.59563,-85.08577
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 41 "
+ End:
+
+Object: 43.59716,-84.13944
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 45 "
+ End:
+
+Object: 43.17738,-83.76926
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 45 "
+ End:
+
+Object: 42.80168,-83.73001
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 44 "
+ End:
+
+Object: 43.02475,-83.32221
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 43 "
+ End:
+
+Object: 42.99258,-82.95952
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 44 "
+ End:
+
+Object: 43.44028,-83.94859
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 45 "
+ End:
+
+Object: 42.77438,-83.52657
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 44 "
+ End:
+
+Object: 42.47716,-83.11320
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 47 "
+ End:
+
+Object: 42.36772,-83.54567
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 46 "
+ End:
+
+Object: 42.34159,-83.44150
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 44 "
+ End:
+
+Object: 42.27591,-83.16032
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 47 "
+ End:
+
+Object: 42.55585,-82.85956
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 46 "
+ End:
+
+Object: 42.49623,-82.91802
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 45 "
+ End:
+
+Object: 42.46042,-83.10600
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 51 "
+ End:
+
+Object: 43.68627,-85.52183
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 40 "
+ End:
+
+Object: 43.39534,-85.51551
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 41 "
+ End:
+
+Object: 43.40793,-85.08413
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 40 "
+ End:
+
+Object: 43.17743,-84.95516
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 41 "
+ End:
+
+Object: 43.56893,-86.07123
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 40 "
+ End:
+
+Object: 42.64508,-86.18852
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 41 "
+ End:
+
+Object: 42.85980,-84.91296
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 42 "
+ End:
+
+Object: 42.87900,-85.37154
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 41 "
+ End:
+
+Object: 43.08864,-85.63225
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 41 "
+ End:
+
+Object: 42.88868,-85.49475
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 42 "
+ End:
+
+Object: 42.85090,-85.58463
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 42 "
+ End:
+
+Object: 42.81316,-85.98119
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 41 "
+ End:
+
+Object: 42.84836,-85.85974
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 42 "
+ End:
+
+Object: 42.97194,-86.18094
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 41 "
+ End:
+
+Object: 43.09231,-86.09768
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 41 "
+ End:
+
+Object: 43.41006,-86.31459
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 41 "
+ End:
+
+Object: 43.55763,-86.39141
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 41 "
+ End:
+
+Object: 42.16536,-86.32623
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 42 "
+ End:
+
+Object: 42.19361,-86.13017
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 41 "
+ End:
+
+Object: 42.19126,-86.01168
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 42 "
+ End:
+
+Object: 42.17997,-86.23913
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 41 "
+ End:
+
+Object: 42.19939,-85.96676
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 42 "
+ End:
+
+Object: 42.20502,-85.91994
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 42 "
+ End:
+
+Object: 42.21855,-85.84159
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 41 "
+ End:
+
+Object: 42.22328,-85.78503
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 42 "
+ End:
+
+Object: 42.22308,-85.76725
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 42 "
+ End:
+
+Object: 42.22975,-85.72099
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 41 "
+ End:
+
+TimeRange: 2023-12-18T01:00:00Z 2023-12-18T01:10:00Z
+
+Object: 46.48812,-87.23149
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 36 "
+ End:
+
+Object: 46.43164,-86.84492
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 37 "
+ End:
+
+Object: 46.10089,-85.61780
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 39 "
+ End:
+
+Object: 46.00841,-85.00555
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 39 "
+ End:
+
+Object: 46.34538,-86.03578
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 37 "
+ End:
+
+Object: 45.90960,-86.48062
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 39 "
+ End:
+
+Object: 46.88494,-88.86370
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 31 "
+ End:
+
+Object: 46.18625,-84.56087
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 39 "
+ End:
+
+Object: 46.27616,-87.41586
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 35 "
+ End:
+
+Object: 46.16046,-88.87984
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 33 "
+ End:
+
+Object: 45.89735,-84.74475
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 40 "
+ End:
+
+Object: 44.58695,-86.09905
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 41 "
+ End:
+
+Object: 43.95574,-86.33909
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 41 "
+ End:
+
+Object: 43.88729,-85.52686
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 40 "
+ End:
+
+Object: 44.77101,-85.40423
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 42 "
+ End:
+
+Object: 45.36155,-85.17717
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 41 "
+ End:
+
+Object: 44.87660,-84.68803
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 40 "
+ End:
+
+Object: 44.61225,-84.70769
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 40 "
+ End:
+
+Object: 44.33489,-84.80651
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 41 "
+ End:
+
+Object: 44.24511,-84.22731
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 43 "
+ End:
+
+Object: 45.76115,-84.73107
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 40 "
+ End:
+
+Object: 45.27269,-84.59000
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 42 "
+ End:
+
+Object: 46.47730,-89.95190
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 32 "
+ End:
+
+Object: 46.72490,-89.15090
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 34 "
+ End:
+
+Object: 46.47888,-88.99046
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 33 "
+ End:
+
+Object: 46.5346,-87.5278
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 34 "
+ End:
+
+Object: 45.92610,-86.98370
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 38 "
+ End:
+
+Object: 46.15847,-86.97997
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 37 "
+ End:
+
+Object: 46.34746,-87.11595
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 36 "
+ End:
+
+Object: 45.96704,-86.2027
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 39 "
+ End:
+
+Object: 44.80630,-85.89630
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 39 "
+ End:
+
+Object: 44.51230,-85.40220
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 40 "
+ End:
+
+Object: 44.22270,-85.80530
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 40 "
+ End:
+
+Object: 44.21980,-86.30880
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 37 "
+ End:
+
+Object: 45.10740,-85.35210
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 41 "
+ End:
+
+Object: 44.71660,-85.19060
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 40 "
+ End:
+
+Object: 45.06750,-83.71690
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 42 "
+ End:
+
+Object: 45.33100,-83.57540
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 41 "
+ End:
+
+Object: 44.72650,-83.80830
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 42 "
+ End:
+
+Object: 45.05491,-84.68850
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 40 "
+ End:
+
+Object: 44.95812,-84.67410
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 40 "
+ End:
+
+Object: 45.75189,-87.68250
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 36 "
+ End:
+
+Object: 46.86689,-89.31436
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 34 "
+ End:
+
+Object: 46.30378,-85.26000
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 38 "
+ End:
+
+Object: 42.45383,-83.43096
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 46 "
+ End:
+
+Object: 42.62936,-85.66264
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 43 "
+ End:
+
+Object: 42.27117,-85.44112
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 44 "
+ End:
+
+Object: 42.40464,-86.25104
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 43 "
+ End:
+
+Object: 46.26303,-89.17819
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 31 "
+ End:
+
+Object: 45.79488,-87.07607
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 38 "
+ End:
+
+Object: 45.63515,-84.63519
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 41 "
+ End:
+
+Object: 44.16699,-85.43853
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 58 "
+ End:
+
+Object: 45.28292,-84.93956
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 42 "
+ End:
+
+Object: 45.06139,-84.78222
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 39 "
+ End:
+
+Object: 45.22948,-84.58719
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 42 "
+ End:
+
+Object: 42.61000,-85.26352
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 41 "
+ End:
+
+Object: 46.60047,-85.22383
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 34 "
+ End:
+
+Object: 45.99950,-84.36333
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 39 "
+ End:
+
+Object: 43.05335,-85.90804
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 41 "
+ End:
+
+Object: 43.17153,-86.20579
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 41 "
+ End:
+
+Object: 44.75560,-85.51966
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 41 "
+ End:
+
+Object: 43.97987,-85.08374
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 43 "
+ End:
+
+Object: 43.59563,-85.08577
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 41 "
+ End:
+
+Object: 43.59716,-84.13944
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 45 "
+ End:
+
+Object: 43.17738,-83.76926
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 45 "
+ End:
+
+Object: 42.80168,-83.73001
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 44 "
+ End:
+
+Object: 43.02475,-83.32221
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 43 "
+ End:
+
+Object: 42.99258,-82.95952
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 44 "
+ End:
+
+Object: 43.44028,-83.94859
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 45 "
+ End:
+
+Object: 42.77438,-83.52657
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 44 "
+ End:
+
+Object: 42.47716,-83.11320
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 47 "
+ End:
+
+Object: 42.36772,-83.54567
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 45 "
+ End:
+
+Object: 42.34159,-83.44150
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 44 "
+ End:
+
+Object: 42.27591,-83.16032
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 47 "
+ End:
+
+Object: 42.55585,-82.85956
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 46 "
+ End:
+
+Object: 42.49623,-82.91802
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 45 "
+ End:
+
+Object: 42.46042,-83.10600
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 51 "
+ End:
+
+Object: 43.68627,-85.52183
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 40 "
+ End:
+
+Object: 43.39534,-85.51551
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 41 "
+ End:
+
+Object: 43.40793,-85.08413
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 40 "
+ End:
+
+Object: 43.17743,-84.95516
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 41 "
+ End:
+
+Object: 43.56893,-86.07123
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 40 "
+ End:
+
+Object: 42.64508,-86.18852
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 41 "
+ End:
+
+Object: 42.85980,-84.91296
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 42 "
+ End:
+
+Object: 42.87900,-85.37154
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 41 "
+ End:
+
+Object: 43.08864,-85.63225
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 41 "
+ End:
+
+Object: 42.88868,-85.49475
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 41 "
+ End:
+
+Object: 42.85090,-85.58463
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 42 "
+ End:
+
+Object: 42.81316,-85.98119
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 40 "
+ End:
+
+Object: 42.84836,-85.85974
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 42 "
+ End:
+
+Object: 42.97194,-86.18094
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 42 "
+ End:
+
+Object: 43.09231,-86.09768
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 41 "
+ End:
+
+Object: 43.41006,-86.31459
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 41 "
+ End:
+
+Object: 43.55763,-86.39141
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 40 "
+ End:
+
+Object: 42.16536,-86.32623
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 42 "
+ End:
+
+Object: 42.19361,-86.13017
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 41 "
+ End:
+
+Object: 42.19126,-86.01168
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 41 "
+ End:
+
+Object: 42.17997,-86.23913
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 41 "
+ End:
+
+Object: 42.19939,-85.96676
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 42 "
+ End:
+
+Object: 42.20502,-85.91994
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 42 "
+ End:
+
+Object: 42.21855,-85.84159
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 42 "
+ End:
+
+Object: 42.22328,-85.78503
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 42 "
+ End:
+
+Object: 42.22308,-85.76725
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 42 "
+ End:
+
+Object: 42.22975,-85.72099
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 41 "
+ End:
+
+TimeRange: 2023-12-18T01:10:00Z 2023-12-18T01:20:00Z
+
+Object: 46.48812,-87.23149
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 36 "
+ End:
+
+Object: 46.43164,-86.84492
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 37 "
+ End:
+
+Object: 46.10089,-85.61780
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 39 "
+ End:
+
+Object: 46.00841,-85.00555
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 39 "
+ End:
+
+Object: 46.34538,-86.03578
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 37 "
+ End:
+
+Object: 45.90960,-86.48062
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 39 "
+ End:
+
+Object: 46.88494,-88.86370
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 31 "
+ End:
+
+Object: 46.18625,-84.56087
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 39 "
+ End:
+
+Object: 46.27616,-87.41586
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 35 "
+ End:
+
+Object: 46.16046,-88.87984
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 33 "
+ End:
+
+Object: 45.89735,-84.74475
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 40 "
+ End:
+
+Object: 44.58695,-86.09905
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 41 "
+ End:
+
+Object: 43.95574,-86.33909
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 41 "
+ End:
+
+Object: 43.88729,-85.52686
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 40 "
+ End:
+
+Object: 44.77101,-85.40423
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 42 "
+ End:
+
+Object: 45.36155,-85.17717
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 41 "
+ End:
+
+Object: 44.87660,-84.68803
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 40 "
+ End:
+
+Object: 44.61225,-84.70769
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 40 "
+ End:
+
+Object: 44.33489,-84.80651
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 41 "
+ End:
+
+Object: 44.24511,-84.22731
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 43 "
+ End:
+
+Object: 45.76115,-84.73107
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 40 "
+ End:
+
+Object: 45.27269,-84.59000
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 42 "
+ End:
+
+Object: 46.47730,-89.95190
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 32 "
+ End:
+
+Object: 46.72490,-89.15090
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 34 "
+ End:
+
+Object: 46.47888,-88.99046
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 33 "
+ End:
+
+Object: 46.5346,-87.5278
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 34 "
+ End:
+
+Object: 45.92610,-86.98370
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 38 "
+ End:
+
+Object: 46.15847,-86.97997
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 37 "
+ End:
+
+Object: 46.34746,-87.11595
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 36 "
+ End:
+
+Object: 45.96704,-86.2027
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 39 "
+ End:
+
+Object: 44.80630,-85.89630
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 39 "
+ End:
+
+Object: 44.51230,-85.40220
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 40 "
+ End:
+
+Object: 44.22270,-85.80530
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 40 "
+ End:
+
+Object: 44.21980,-86.30880
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 37 "
+ End:
+
+Object: 45.10740,-85.35210
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 41 "
+ End:
+
+Object: 44.71660,-85.19060
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 40 "
+ End:
+
+Object: 45.06750,-83.71690
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 42 "
+ End:
+
+Object: 45.33100,-83.57540
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 41 "
+ End:
+
+Object: 44.72650,-83.80830
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 42 "
+ End:
+
+Object: 45.05491,-84.68850
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 40 "
+ End:
+
+Object: 44.95812,-84.67410
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 40 "
+ End:
+
+Object: 45.75189,-87.68250
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 36 "
+ End:
+
+Object: 46.86689,-89.31436
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 34 "
+ End:
+
+Object: 46.30378,-85.26000
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 38 "
+ End:
+
+Object: 42.45383,-83.43096
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 46 "
+ End:
+
+Object: 42.62936,-85.66264
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 43 "
+ End:
+
+Object: 42.27117,-85.44112
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 44 "
+ End:
+
+Object: 42.40464,-86.25104
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 43 "
+ End:
+
+Object: 46.26303,-89.17819
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 31 "
+ End:
+
+Object: 45.79488,-87.07607
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 38 "
+ End:
+
+Object: 45.63515,-84.63519
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 41 "
+ End:
+
+Object: 44.16699,-85.43853
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 58 "
+ End:
+
+Object: 45.28292,-84.93956
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 42 "
+ End:
+
+Object: 45.06139,-84.78222
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 39 "
+ End:
+
+Object: 45.22948,-84.58719
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 42 "
+ End:
+
+Object: 42.61000,-85.26352
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 41 "
+ End:
+
+Object: 46.60047,-85.22383
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 34 "
+ End:
+
+Object: 45.99950,-84.36333
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 39 "
+ End:
+
+Object: 43.05335,-85.90804
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 41 "
+ End:
+
+Object: 43.17153,-86.20579
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 41 "
+ End:
+
+Object: 44.75560,-85.51966
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 41 "
+ End:
+
+Object: 43.97987,-85.08374
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 43 "
+ End:
+
+Object: 43.59563,-85.08577
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 41 "
+ End:
+
+Object: 43.59716,-84.13944
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 45 "
+ End:
+
+Object: 43.17738,-83.76926
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 45 "
+ End:
+
+Object: 42.80168,-83.73001
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 44 "
+ End:
+
+Object: 43.02475,-83.32221
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 43 "
+ End:
+
+Object: 42.99258,-82.95952
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 44 "
+ End:
+
+Object: 43.44028,-83.94859
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 45 "
+ End:
+
+Object: 42.77438,-83.52657
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 44 "
+ End:
+
+Object: 42.47716,-83.11320
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 47 "
+ End:
+
+Object: 42.36772,-83.54567
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 45 "
+ End:
+
+Object: 42.34159,-83.44150
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 44 "
+ End:
+
+Object: 42.27591,-83.16032
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 47 "
+ End:
+
+Object: 42.55585,-82.85956
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 46 "
+ End:
+
+Object: 42.49623,-82.91802
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 45 "
+ End:
+
+Object: 42.46042,-83.10600
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 51 "
+ End:
+
+Object: 43.68627,-85.52183
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 40 "
+ End:
+
+Object: 43.39534,-85.51551
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 41 "
+ End:
+
+Object: 43.40793,-85.08413
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 40 "
+ End:
+
+Object: 43.17743,-84.95516
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 41 "
+ End:
+
+Object: 43.56893,-86.07123
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 40 "
+ End:
+
+Object: 42.64508,-86.18852
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 41 "
+ End:
+
+Object: 42.85980,-84.91296
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 42 "
+ End:
+
+Object: 42.87900,-85.37154
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 41 "
+ End:
+
+Object: 43.08864,-85.63225
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 41 "
+ End:
+
+Object: 42.88868,-85.49475
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 41 "
+ End:
+
+Object: 42.85090,-85.58463
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 42 "
+ End:
+
+Object: 42.81316,-85.98119
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 40 "
+ End:
+
+Object: 42.84836,-85.85974
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 42 "
+ End:
+
+Object: 42.97194,-86.18094
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 42 "
+ End:
+
+Object: 43.09231,-86.09768
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 41 "
+ End:
+
+Object: 43.41006,-86.31459
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 41 "
+ End:
+
+Object: 43.55763,-86.39141
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 40 "
+ End:
+
+Object: 42.16536,-86.32623
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 42 "
+ End:
+
+Object: 42.19361,-86.13017
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 41 "
+ End:
+
+Object: 42.19126,-86.01168
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 41 "
+ End:
+
+Object: 42.17997,-86.23913
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 41 "
+ End:
+
+Object: 42.19939,-85.96676
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 42 "
+ End:
+
+Object: 42.20502,-85.91994
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 42 "
+ End:
+
+Object: 42.21855,-85.84159
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 42 "
+ End:
+
+Object: 42.22328,-85.78503
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 42 "
+ End:
+
+Object: 42.22308,-85.76725
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 42 "
+ End:
+
+Object: 42.22975,-85.72099
+  Threshold: 75
+Threshold: 75
+  Color: 255 255 0
+  Text: 16,12, 1, " 41 "
+ End:
+
