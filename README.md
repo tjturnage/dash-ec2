@@ -12,9 +12,3 @@ git clone https://github.com/tjturnage/dash-ec2.git
 ```
 pip install -r requirements.txt
 ```
-
-3. Run the application 
-
-```
-python index.py
-```
