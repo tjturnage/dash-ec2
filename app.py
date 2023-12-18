@@ -4,8 +4,9 @@ This is the main app that drives everything
 import dash
 import dash_bootstrap_components as dbc
 app = dash.Dash(__name__, external_stylesheets= [dbc.themes.DARKLY],use_pages=True)
+server = app.server
 
-ASSETS_DIR = "/home/tjturnage/multipage/assets"
+ASSETS_DIR = "/home/ec2-user/dash-ec2/assets"
 
 header = dbc.Navbar(
     dbc.Container(
