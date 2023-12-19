@@ -24,7 +24,11 @@ BUOY_DICT = {'45024': {'title': 'Ludington Buoy', 'color': f'rgba(255, 255, 255,
          '45007': {'title': 'LM South Buoy', 'color': f'rgba(30, 30, 255, {opac})', 'line_width': lw, 'row': 6}
          }
 
-BUOY_IDS = list(BUOY_DICT.keys())
+MINI_BUOY_DICT = {           
+         '45161': {'title': 'Muskegon Buoy', 'color': f'rgba(200, 200, 255, {opac})', 'line_width': lw, 'row': 2}
+         }
+
+BUOY_IDS = list(MINI_BUOY_DICT.keys())
 
 CMAN_DICT = {'LDTM4': {'title': 'Ludington', 'row': 2},
             'MKGM4': {'title': 'Muskegon', 'row': 4},
@@ -35,10 +39,6 @@ CMAN_DICT = {'LDTM4': {'title': 'Ludington', 'row': 2},
 
 METERS_PER_SECOND_TO_KNOTS = 1.94384
 METERS_TO_FEET = 3.280
-
-
-
-
 
 
 class BuoyData():

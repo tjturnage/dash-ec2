@@ -1,7 +1,9 @@
 # Import necessary libraries 
 import dash
-from dash import html #, dcc, callback, Input, Output
+from dash import html , dcc, callback, Input, Output
 import dash_bootstrap_components as dbc
+
+
 
 dash.register_page(__name__,
     path='/afds',
@@ -15,7 +17,7 @@ def layout():
             dbc.Col(
                 html.Div([
                     #dbc.Button("Show File Content", id="display-file-content-btn", color="success", style={'padding':'1em','width':'100%'}),
-                    html.Div(children=[html.ObjectEl(data="http://ec2-18-191-67-43.us-east-2.compute.amazonaws.com:8050/assets/afds.txt")],id="display-file-content-response")
+                    html.Div(children=[html.ObjectEl(data="http://3.143.142.92:8050/assets/afds.txt")],id="display-file-content-response")
                 ],
                 style={'padding':'1em'})
             )
@@ -29,13 +31,13 @@ def layout():
 # The html default for object element width is way too small.
 # Thus, there is a "assets/object.css" file that overrides the defaults
 
-#@callback(
-#    Output("display-file-content-response", "children"),
-#    Input("display-file-content-btn","n_clicks"),
-#    prevent_initial_call=True,
-#)
+@callback(
+    Output("display-file-content-response", "children"),
+    Input("display-file-content-btn","n_clicks"),
+    prevent_initial_call=True,
+)
 # The html default for object element width is way too small.
 # Thus, there is a "assets/object.css" file that overrides the defaults
 
-#def show_file_content(n_clicks):
-#    return [html.ObjectEl(data="https://tjturnage.pythonanywhere.com/assets/afds.txt")]
+def show_file_content(n_clicks):
+    return [html.ObjectEl(data="http://3.143.142.92:8050/assets/afds.txt")]

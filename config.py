@@ -2,7 +2,7 @@ from pathlib import Path
 from datetime import datetime, timedelta
 import pandas as pd
 
-start = datetime.utcnow() - timedelta(hours=3)
+start = datetime.utcnow() - timedelta(hours=4)
 
 
 BASE_DIRECTORY = Path('/home/ec2-user/dash-ec2')
@@ -22,11 +22,16 @@ BUOY_DICT = {'45024': {'title': 'Ludington Buoy', 'color': f'rgba(255, 255, 255,
          '45007': {'title': 'LM South Buoy', 'color': f'rgba(30, 30, 255, {opac})', 'line_width': lw, 'row': 7}
          }
 
+BUOY_DICT_MINI = {         
+         '45161': {'title': 'Muskegon Buoy', 'color': f'rgba(200, 200, 255, {opac})', 'line_width': lw, 'row': 2},
+         }
+
+
 BUOY_IDS = list(BUOY_DICT.keys())
 
 BUOY_TITLES = []
-for key in BUOY_DICT:
-    BUOY_TITLES.append(BUOY_DICT[key]['title'])
+for key in BUOY_DICT_MINI.keys():
+    BUOY_TITLES.append(BUOY_DICT_MINI[key]['title'])
 
 
 WINDSPEED_TITLE = 'Wind Speed and Gust (kt)'
