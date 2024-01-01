@@ -4,19 +4,14 @@ https://medium.com/@GeoffreyGordonAshbrook/plotly-dash-in-ec2-production-server-
 
 
 sudo yum update -y
-sudo yum install git -y
-
-
-
-git remote add upstream https://github.com/tjturnage/dash-ec2.git
-git fetch upstream
-git merge upstream/main
-
-cd dash-ec2
-
-python3 -m venv env; source env/bin/activate
-python3 -m pip install --upgrade pip
-pip install -r requirements.txt
+sudo yum install git -y  
+git remote add upstream https://github.com/tjturnage/dash-ec2.git  
+git fetch upstream  
+git merge upstream/main  
+cd dash-ec2  
+python3 -m venv env; source env/bin/activate  
+python3 -m pip install --upgrade pip  
+pip install -r requirements.txt  
 
 # to set up a cron
 sudo yum install cronie -y

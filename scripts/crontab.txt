@@ -1,2 +1,3 @@
+# this assumes we went with the default "ec2-user" user name
 */10 * * * * python3 /home/ec2-user/dash-ec2/scripts/placefile_rwis.py &> /dev/null
 30 * * * * python3 /home/ec2-user/dash-ec2/scripts/afds.py &> /dev/null

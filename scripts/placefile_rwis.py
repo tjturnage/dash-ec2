@@ -10,11 +10,13 @@ Obs network/station providers: https://developers.synopticdata.com/about/station
 Selecting stations: https://developers.synopticdata.com/mesonet/v2/station-selectors/
 
 """
-from base_directory import BASE_DIRECTORY as b
 import os
 import math
 from datetime import datetime, timedelta
-from pathlib import Path
+#from pathlib import Path
+from base_directory import BASE_DIRECTORY as b
+
+
 import requests
 
 DATA_DIRECTORY = b / 'data'
